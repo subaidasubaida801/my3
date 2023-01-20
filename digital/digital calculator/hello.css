@@ -1,0 +1,67 @@
+h1{
+text-align: center;
+color:blue
+}
+
+
+
+.main{
+    width: 460px;
+    height: 580px;
+    background-color: rgb(5, 5, 5);
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    
+    }
+    p{
+    margin-left: 10px;
+        color:white;
+        font-size: 2rem;
+        font-family: 'Franklin Gothic Medium',
+         'Arial Narrow', Arial, sans-serif;
+    }
+    #screen{
+    background: rgb(35, 157, 214);
+    height: 60px;
+    width: 425px;
+    margin: 10px;
+    padding-top: 5px;
+    text-align: right;
+    border-radius: 10px;
+    font-size:44px;
+    }
+    .button{
+    background: rgb(78, 77, 77);
+    color: rgb(240, 140, 9);
+    width: 92px;
+    height: 70px;
+    font-size: 2.5rem;
+    margin:10px;
+    border-radius: 15px;
+    
+    }
+    .clear{
+    background: red;
+    
+    }
+    .operator{
+     background: rgb(121, 121, 115);
+     color: white;
+      
+    
+    }
+   #result{
+    background: purple;
+color:brown
+
+    }
+    
+    
+    .button:hover{
+    background: black;
+      color:rgb(247, 151, 9); 
+    border: solid 3px rgb(10, 239, 60);
+    transition: 0.5s ease-in-out;
+    
+    }
