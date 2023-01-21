@@ -1,0 +1,188 @@
+.calc{
+    width: 800px;
+    height: 800px;
+    background: grey;
+    margin-left:30px;
+    margin-top: 25px;
+    border-radius:100px;
+}
+
+P{
+    color: aliceblue;
+  padding-top: 60px;
+  
+margin-left: 70px;
+    font-size:42px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+#screen{
+ width: 70%;
+margin-left: 70px;
+height:70px;
+margin-top: 10px;
+border-radius:12px;
+text-align: right;
+background-color:   rgb(254, 254, 253);
+border: 2px solid  rgb(42, 58, 69);
+font-size: 3rem;
+cursor: pointer;
+}
+.btn{
+    width: 90px;
+     height: 55px;
+    margin-left: 70px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background: rgb(11, 11, 11);
+    font-size: 2rem;
+    color: rgb(240,140, 9);
+    border:1px solid white
+    }
+
+
+
+
+
+
+.backbtn{
+    width: 90px;
+    height: 55px;
+    margin-left: 70px;
+    margin-top: 30px;
+   border-radius: 10px;
+   background: rgb(78,77, 77);
+   font-size: 2rem;
+   color: rgb(240,140, 9);
+   border:1px solid white
+   }
+
+   .clearbtn{
+    background: red;
+    width: 90px;
+     height: 55px;
+     margin-left: 70px;
+     margin-top: 30px;
+    border-radius: 10px;
+    font-size: 2rem;
+    border: 1px solid rgb(246, 241, 246);    
+    lawngreen;
+    }
+    .operatorbtn{
+     border: 2px solid rgb(85, 2, 85);       
+     width: 90px;
+    height: 55px;
+    margin-left: 70px;
+   margin-top: 30px;
+    border-radius: 10px;
+    background: rgb(18, 17, 17);
+    font-size: 2rem; 
+    color: aliceblue;
+    }
+
+    .btn:hover{       
+        border: solid 3px lawngreen;;
+         }
+        .clearbtn:hover{
+        border: solid 3px lightgreen;
+        background: white;
+                }
+                   
+        .operatorbtn:hover{
+            border: solid 3px lightgreen;
+        
+        }
+         input #screen:hover{
+            border: solid 3px lightgreen;
+        
+        
+        }
+        #screen:hover{
+        background: rgb(151, 151, 253);
+        border: 2px solid blue;
+        }
+        .backbtn:hover{
+            background:  lawngreen;
+            
+            border: 2px solid blue;
+
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.btn{
+    width: 90px;
+     height: 55px;
+    margin-left: 70px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background: rgb(78,77, 77);
+    font-size: 2rem;
+    color: rgb(240,140, 9);
+    border:1px solid white
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
